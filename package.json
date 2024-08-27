@@ -1,0 +1,15 @@
+{
+    "name": "my-password-generator",
+    "version": "1.0.0",
+    "description": "A simple password generator with various strength levels.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
